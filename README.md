@@ -50,6 +50,6 @@ Data cleaning, modeling, interactive BI visuals
 ## 📬 Contact  
 [![Email](https://img.shields.io/badge/Email-valeriiapchelnikova%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeriiapchelnikova@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau%20Public-Visit-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/valeriia.pchelnikova/vizzes)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1ba4495b4a0ad3)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1ba4495b4a0ad37)
 
 Thanks for visiting!
