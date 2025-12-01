@@ -23,7 +23,7 @@ Cohort analysis, revenue metrics, engagement trends
 ➡️ *https://github.com/mazovetskikh/game-analysis*
 
 ### 🔹 **Tableau BI – Revenue & User Analytics**
-Multi-chart dashboards, product KPIs, regional performance 
+Multi-chart dashboards, product KPIs, regional performance  
 ➡️ *https://github.com/mazovetskikh/tableau-business-insights*
 
 ### 🔹 **Power BI – Data Professional Survey Dashboard**
