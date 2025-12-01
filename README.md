@@ -20,15 +20,15 @@ My focus areas include **data visualization, user behavior analysis, KPI modelin
 <p align="center">
 
   <a href="https://github.com/mazovetskikh/game-analysis">
-    <img src="https://img.shields.io/badge/Google%20Sheets%20–%20Gaming%20Analytics%20%26%20Insights-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Sheets-Game%20Analytics-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   </a>
 
   <a href="https://github.com/mazovetskikh/tableau-business-insights">
-    <img src="https://img.shields.io/badge/Tableau%20BI%20–%20Revenue%20%26%20User%20Analytics-005F9E?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tableau%20BI-Revenue%20%26%20Users-005F9E?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
 
   <a href="https://github.com/mazovetskikh/powerbi-data-professional-survey">
-    <img src="https://img.shields.io/badge/Power%20BI%20–%20Data%20Professional%20Survey-FFC000?style=for-the-badge&logo=power-bi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Power%20BI-Survey%20Dashboard-FFC000?style=for-the-badge&logo=power-bi&logoColor=black" />
   </a>
 
 </p>
