@@ -14,25 +14,21 @@ My focus areas include **data visualization, user behavior analysis, KPI modelin
 **Other:** Dashboard design, business insights, reporting automation  
 
 ---
-
-## 📊 Featured Projects  
+## 📊 Featured Projects 
 
 <p align="center">
 
-  <!-- Google Sheets -->
-  <a href="https://github.com/mazovetskikh/game-analysis">
-    <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"><img src="https://img.shields.io/badge/GAME%20ANALYTICS-555555?style=for-the-badge">
-  </a>
+<a href="https://github.com/mazovetskikh/game-analysis">
+  <img src="https://img.shields.io/badge/GOOGLE%20SHEETS%20%E2%80%93%20GAME%20ANALYTICS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+</a>
 
-  <!-- Tableau BI -->
-  <a href="https://github.com/mazovetskikh/tableau-business-insights">
-    <img src="https://img.shields.io/badge/TABLEAU%20BI-005C9F?style=for-the-badge&logo=tableau&logoColor=white"><img src="https://img.shields.io/badge/REVENUE%20%26%20USERS-555555?style=for-the-badge">
-  </a>
+<a href="https://github.com/mazovetskikh/tableau-business-insights">
+  <img src="https://img.shields.io/badge/TABLEAU%20BI%20%E2%80%93%20REVENUE%20%26%20USERS-005C9F?style=for-the-badge&logo=tableau&logoColor=white">
+</a>
 
-  <!-- Power BI -->
-  <a href="https://github.com/mazovetskikh/powerbi-data-professional-survey">
-    <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"><img src="https://img.shields.io/badge/SURVEY%20DASHBOARD-555555?style=for-the-badge">
-  </a>
+<a href="https://github.com/mazovetskikh/powerbi-data-professional-survey">
+  <img src="https://img.shields.io/badge/POWER%20BI%20%E2%80%93%20SURVEY%20DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>
 
 </p>
 
