@@ -28,6 +28,7 @@ Multi-chart dashboards, product KPIs, regional performance
 
 ### 🔹 **Power BI – Data Professional Survey Dashboard**
 Data cleaning, modeling, interactive BI visuals  
+➡️ *https://github.com/mazovetskikh/powerbi-data-professional-survey*
 
 ---
 
