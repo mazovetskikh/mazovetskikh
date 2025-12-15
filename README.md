@@ -11,6 +11,7 @@ My focus areas include **data visualization, user behavior analysis, KPI modelin
 **Analytics:** Cohort analysis, Funnel analysis, KPI development, A/B testing basics  
 **Data Skills:** Data cleaning, transformation, segmentation, pivot modeling  
 **Languages:** SQL (PostgreSQL, BigQuery), Python (beginner – pandas, numpy basics)
+
 **Other:** Dashboard design, business insights, reporting automation  
 
 ---
