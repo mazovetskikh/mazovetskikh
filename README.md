@@ -7,10 +7,10 @@ My focus areas include **data visualization, user behavior analysis, KPI modelin
 ---
 
 ## 🧰 Tech Stack  
-**BI & Visualization:** Tableau, Power BI, Google Sheets, Excel  
+**BI & Visualization:** Tableau, Power BI, Looker Studio, Google Sheets, Excel  
 **Analytics:** Cohort analysis, Funnel analysis, KPI development, A/B testing basics  
 **Data Skills:** Data cleaning, transformation, segmentation, pivot modeling  
-**Languages:** SQL, Python (beginner)  
+**Languages:** SQL (PostgreSQL, BigQuery), Python (beginner – pandas, numpy basics)
 **Other:** Dashboard design, business insights, reporting automation  
 
 ---
