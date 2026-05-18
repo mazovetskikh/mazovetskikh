@@ -9,9 +9,13 @@ I turn raw data into clear, actionable insights — from writing complex SQL que
 ## Tech Stack
 
 **BI & Visualisation:** Tableau, Power BI, Looker Studio, Google Sheets, Excel
+
 **Analytics:** Cohort analysis, funnel analysis, KPI development, A/B testing basics
+
 **Data Skills:** Data cleaning, transformation, segmentation, pivot tables & modelling
+
 **Languages:** SQL (PostgreSQL, BigQuery), Python (pandas, NumPy, matplotlib, seaborn)
+
 **Analytics Tools:** Amplitude, Google Analytics, Google Tag Manager
 
 ---
