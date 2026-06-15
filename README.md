@@ -21,13 +21,14 @@ I turn raw data into clear, actionable insights — from writing complex SQL que
 ---
 
 ## Featured Projects
-
 <p align="center">
 <a href="https://github.com/mazovetskikh/omnichannel-sales-sql"><img src="https://img.shields.io/badge/OMNICHANNEL%20SALES%20%E2%80%93%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://github.com/mazovetskikh/cohort-retention-sql-sheets"><img src="https://img.shields.io/badge/COHORT%20RETENTION%20%E2%80%93%20SQL%20%2B%20SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"></a>
 <a href="https://github.com/mazovetskikh/tableau-business-insights"><img src="https://img.shields.io/badge/TABLEAU%20%E2%80%93%20REVENUE%20%26%20USERS-005C9F?style=for-the-badge&logo=tableau&logoColor=white"></a>
 <a href="https://github.com/mazovetskikh/credit-application-scoring-python"><img src="https://img.shields.io/badge/CREDIT%20SCORING%20%E2%80%93%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/mazovetskikh/bigquery-ga4-analysis"><img src="https://img.shields.io/badge/GA4%20FUNNEL%20%E2%80%93%20BIGQUERY-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"></a>
+<a href="https://github.com/mazovetskikh/looker-studio-marketing-dashboard"><img src="https://img.shields.io/badge/MARKETING%20DASHBOARD%20%E2%80%93%20LOOKER%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white"></a>
+<a href="https://github.com/mazovetskikh/facebook-ads-romi-analysis"><img src="https://img.shields.io/badge/FACEBOOK%20ADS%20ROMI%20%E2%80%93%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
 ---
