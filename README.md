@@ -2,7 +2,7 @@
 
 ### Data Analyst | SQL · Python · Tableau · Power BI · BigQuery
 
-I turn raw data into clear, actionable insights — from writing complex SQL queries and building cohort analyses to designing interactive BI dashboards. Currently based in the UK and open to Junior Data Analyst roles.
+I turn raw data into clear, actionable insights — from writing complex SQL queries and building cohort analyses to designing interactive BI dashboards
 
 ---
 
@@ -23,6 +23,7 @@ I turn raw data into clear, actionable insights — from writing complex SQL que
 ## Featured Projects
 <p align="center">
 <a href="https://github.com/mazovetskikh/omnichannel-sales-sql"><img src="https://img.shields.io/badge/OMNICHANNEL%20SALES%20%E2%80%93%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://github.com/mazovetskikh/powerbi-data-professional-survey"><img src="https://img.shields.io/badge/POWER%20BI%20%E2%80%93%20DATA%20PROFESSIONAL%20SURVEY-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
 <a href="https://github.com/mazovetskikh/cohort-retention-sql-sheets"><img src="https://img.shields.io/badge/COHORT%20RETENTION%20%E2%80%93%20SQL%20%2B%20SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"></a>
 <a href="https://github.com/mazovetskikh/tableau-business-insights"><img src="https://img.shields.io/badge/TABLEAU%20%E2%80%93%20REVENUE%20%26%20USERS-005C9F?style=for-the-badge&logo=tableau&logoColor=white"></a>
 <a href="https://github.com/mazovetskikh/credit-application-scoring-python"><img src="https://img.shields.io/badge/CREDIT%20SCORING%20%E2%80%93%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -45,9 +46,9 @@ I turn raw data into clear, actionable insights — from writing complex SQL que
 
 ## Currently Working On
 
-- Power BI — multi-page business reports with DAX measures and star schema modelling
-- A/B testing fundamentals and statistical significance
-- Building a pet project using UK open data
+- Deepening Power BI skills: multi-page business reports, DAX measures and star schema modelling
+- Probability, statistics and A/B testing, including statistical significance
+- Building a new pet project on open data
 
 ---
 
